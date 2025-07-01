@@ -16,7 +16,7 @@ const LoginPage = () => {
                 <img src={logoDark} alt="dark logo" height={66} className="logo-dark" />
                 <img src={logo} alt="logo light" height={66} className="logo-light" />
               </Link>
-              <h5 className="fw-semibold mt-2 lh-base">Sistema de documentación ISO</h5>
+              <h5 className="fw-semibold mt-2 lh-base">Sistema de Producción</h5>
             </div>
             <Card className=" overflow-hidden text-center p-xxl-4 p-3 mb-0">
               <h4 className="fw-semibold mb-2 fs-18">Ingrese sus credenciales</h4>
@@ -25,8 +25,8 @@ const LoginPage = () => {
               <p className="text-muted fs-14 mb-4">
               </p>
               <p className="mt-auto mb-0">
-                {currentYear} © TransExpress -
-                <span className="fw-bold text-decoration-underline text-uppercase text-reset fs-12">Portal-ISO</span>
+                {currentYear} © Maxim  -
+                <span className="fw-bold text-decoration-underline text-uppercase text-reset fs-12">Portal Producción</span>
               </p>
             </Card>
           </Col>

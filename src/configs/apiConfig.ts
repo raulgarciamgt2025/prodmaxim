@@ -1,1 +1,1 @@
-export const API_URL: string = "https://iso.transexpress.com.gt/webservice/api/";
+export const API_URL: string = "https://prod-maxim.aplicaciones.com.gt/webservice/api/";

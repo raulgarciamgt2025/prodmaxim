@@ -9,8 +9,8 @@ const Footer = () => {
         <div className="page-container">
           <Row>
             <Col md={6} className=" text-center text-md-start">
-              {currentYear} © TransExpress Guatemala -
-              <span className="fw-bold text-decoration-underline text-uppercase text-reset fs-12">www.transexpress.com.gt</span>
+              {currentYear} © Maxim Guatemala -
+              <span className="fw-bold text-decoration-underline text-uppercase text-reset fs-12">www.maxim-group.com</span>
             </Col>
             <Col md={6}>
               <div className="text-md-end footer-links d-none d-md-block">
